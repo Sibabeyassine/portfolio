@@ -11,7 +11,7 @@ const projects = [
   {
     id: 1,
     title: 'Gestionnaire de tâches',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae magni deserunt debitis recusandae ab harum totam, eum facilis et ratione officia ut inventore aspernatur',
+    description: 'Une application web pour gérer les tâches quotidiennes avec des fonctionnalités de création, modification et suppression.',
     technologies: ['React', 'Node.js', 'Tailwind CSS'],
     demoLink: '#',
     repoLink: '#',
@@ -20,7 +20,7 @@ const projects = [
   {
     id: 2,
     title: 'Plateforme E-commerce',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae magni deserunt debitis recusandae ab harum totam, eum facilis et ratione officia ut inventore aspernatur',
+    description: 'C\'est une plateforme e-commerce complète avec gestion des produits, panier et paiement.',
     technologies: ['Next.js', 'TypeScript', 'Prisma'],
     demoLink: '#',
     repoLink: '#',
@@ -29,7 +29,7 @@ const projects = [
   {
     id: 3,
     title: 'Portfolio interactif',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae magni deserunt debitis recusandae ab harum totam, eum facilis et ratione officia ut inventore aspernatur',
+    description: 'Un portfolio en ligne pour présenter mes projets et compétences de manière interactive et attrayante.',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     demoLink: '#',
     repoLink: '#',
@@ -38,7 +38,7 @@ const projects = [
   {
     id: 4,
     title: 'Application de Chat en temps réel',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae magni deserunt debitis recusandae ab harum totam, eum facilis et ratione officia ut inventore aspernatur',
+    description: 'Une application de chat en temps réel permettant aux utilisateurs de communiquer instantanément.',
     technologies: ['React', 'Socket.io', 'Express.js'],
     demoLink: '#',
     repoLink: '#',
@@ -47,7 +47,7 @@ const projects = [
   {
     id: 5,
     title: 'Système de réservation de salles',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae magni deserunt debitis recusandae ab harum totam, eum facilis et ratione officia ut inventore aspernatur',
+    description: 'Une application pour réserver des salles de réunion avec calendrier et notifications.',
     technologies: ['Next.js', 'MongoDB', 'Chakra UI'],
     demoLink: '#',
     repoLink: '#',
@@ -56,7 +56,7 @@ const projects = [
   {
     id: 6,
     title: 'Analyseur de sentiment',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae magni deserunt debitis recusandae ab harum totam, eum facilis et ratione officia ut inventore aspernatur',
+    description: 'Un outil d\'analyse de sentiment qui utilise le traitement du langage naturel pour évaluer les sentiments dans les textes.',
     technologies: ['Python', 'Flask', 'NLTK'],
     demoLink: '#',
     repoLink: '#',
